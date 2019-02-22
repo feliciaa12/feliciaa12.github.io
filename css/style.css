@@ -15,4 +15,11 @@ body {background-color: light;}
 body {
   background-color: coral;
 >>>>>>> 06cad01c9b17fd0d2dd49cda4c46e34919af2a4c
+<<<<<<< HEAD
+=======
+}
+p {
+  font-family: cursive;
+  text-decoration: underline;
+>>>>>>> 4e1edd94556c3be371f819dfb8533bb3f27dddba
 }
